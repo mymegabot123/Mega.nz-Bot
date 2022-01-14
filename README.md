@@ -51,9 +51,9 @@ pip3 install -r requirements.txt
 ```
 - Fill Config Vars, </br>
 For PCs - Use Normal Text Editor to Fill Config Vars </br>
-For Vps - If you haven't installed nano yet, Read This - [How to install Nano in your computer/Vps](https://gist.github.com/Itz-fork/fd11c08ef7464bdae3663a1f9c77c9e9)
+For Vps - If you haven't installed nano yet, Read This - [How to install Nano in your computer/Vps](https://gist.github.com/mymegabot123/fd11c08ef7464bdae3663a1f9c77c9e9)
 
-Fill Config vars with your own values. If you don't know  how to get them, Read This - [How to Get Config Values](https://github.com/Itz-fork/Mega.nz-Bot#config-vars-)
+Fill Config vars with your own values. If you don't know  how to get them, Read This - [How to Get Config Values](https://github.com/mymegabot123/Mega.nz-Bot#config-vars-)
 ```
 sudo nano config.py
 ```
