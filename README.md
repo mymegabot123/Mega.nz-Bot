@@ -30,7 +30,7 @@ Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### With Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Mega-Deployer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mymegabot123/Mega-Deployer)
 
 > Notice ⚠️:
 > Please read install notes in [Mega.nz-Deployer](https://github.com/Itz-fork/Mega-Deployer) on "How to deploy this bot on Heroku"
